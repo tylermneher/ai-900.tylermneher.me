@@ -1,0 +1,56 @@
+h1 {
+  font-family: "Lucida Console", Courier, monospace;
+  font-style: oblique;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Lucida Console", Courier, monospace;
+  font-style: oblique;
+  text-align: center;
+}
+
+
+
+h3 {
+  font-family: "Lucida Console", Courier, monospace;
+  font-style: oblique;
+  text-align: center;
+}
+
+.tylermneher {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* padding: 5px; */
+  /* padding-left: 1rem;
+  padding-right: 1rem; */
+  max-width: 90%;
+  height: auto;
+}
+
+.ai900-badge {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* padding: 5px; */
+  /* padding-left: 1rem;
+  padding-right: 1rem; */
+  max-width: 90%;
+  height: auto;
+}
+
+footer {
+  font-family: "Lucida Console", Courier, monospace;
+  font-style: normal;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+.links {
+  font-family: "Lucida Console", Courier, monospace;
+  font-style: oblique;
+  text-align: center;
+}
