@@ -7,7 +7,7 @@ describe("Homepage", function () {
         context("Testing the Body Verification Link", function () {
             cy.get('[data-cy="body-verification-link"]').should("be.visible");
             cy.get('[data-cy="body-verification-link"]').should("have.attr", "href", "https://learn.microsoft.com/api/credentials/share/en-us/tylermneher/E740B04E2B740620?sharingId=E8796AF58924CF52");
-            cy.get('[data-cy="body-verification-link"]').should("have.text", "Microsoft\n        AI-900 Certification Verification");
+            cy.get('[data-cy="body-verification-link"]').should("have.text", "Microsoft\n        AI-900 Verification");
         });
         context("Testing the Body Credential ID", function () {
             cy.get('[data-cy="body-credentialid"]').should("be.visible");
